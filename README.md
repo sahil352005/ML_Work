@@ -1,6 +1,5 @@
 ---
 
-````markdown
 # 🧠 Machine Learning Repository
 
 This repository contains all my machine learning projects, codes, and experiments. It serves as a collection of work I’ve done while learning and applying various ML algorithms and techniques.
@@ -67,5 +66,3 @@ This project is open source feel free to do contributions :)
 ```
 
 ---
-
-```
