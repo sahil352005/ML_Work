@@ -41,7 +41,7 @@ This repository contains all my machine learning projects, codes, and experiment
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/sahil352005/ML_Work.git
 ````
 
 2. Install required packages:
